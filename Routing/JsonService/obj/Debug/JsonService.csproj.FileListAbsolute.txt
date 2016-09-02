@@ -16,3 +16,21 @@ D:\Stanislau_Kazarez\ASP.NET MVC\Routing\JsonService\bin\Debug\System.Web.WebPag
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\JsonService\obj\Debug\JsonService.csprojResolveAssemblyReference.cache
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\JsonService\obj\Debug\JsonService.dll
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\JsonService\obj\Debug\JsonService.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\JsonService.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\JsonService.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Helpers.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Mvc.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Razor.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Helpers.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Mvc.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.Razor.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\obj\Debug\JsonService.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\obj\Debug\JsonService.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\JsonService\obj\Debug\JsonService.pdb

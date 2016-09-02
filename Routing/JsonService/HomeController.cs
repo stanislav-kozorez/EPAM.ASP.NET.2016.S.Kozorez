@@ -9,10 +9,10 @@ namespace JsonService
 {
     public class HomeController: Controller
     {
-        public ActionResult Index()
+        public ActionResult Index(string id)
         {
             ViewBag.Controller = "JsonController";
-            return Json("Json", JsonRequestBehavior.AllowGet);
+            return Json($"Json: {id}", JsonRequestBehavior.AllowGet);
         }
     }
 }
