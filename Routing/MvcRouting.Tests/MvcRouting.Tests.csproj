@@ -41,7 +41,9 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
       <Private>True</Private>
@@ -87,9 +89,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="When_requesting_compound_constraints_request_with_to_many_params.cs" />
     <Compile Include="When_requesting_compound_constraints_route.cs" />
     <Compile Include="When_requesting_default_route.cs" />
+    <Compile Include="When_requesting_default_route_with_to_many_params.cs" />
     <Compile Include="When_requesting_json.cs" />
+    <Compile Include="When_requesting_json_with_to_many_params.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Mock\Mock.csproj">

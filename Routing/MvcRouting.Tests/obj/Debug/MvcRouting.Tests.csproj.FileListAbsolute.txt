@@ -48,7 +48,6 @@ C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozor
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.Tests.dll
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.Tests.pdb
-C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Mock.dll
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.dll
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Mvc.dll
@@ -59,7 +58,6 @@ C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozor
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Mock.pdb
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.pdb
-C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Mvc.xml
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Razor.xml
 C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Razor.xml
