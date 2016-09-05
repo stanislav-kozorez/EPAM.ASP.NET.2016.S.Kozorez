@@ -30,3 +30,40 @@ D:\Stanislau_Kazarez\ASP.NET MVC\Routing\MvcRouting.Tests\bin\Debug\System.Web.W
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.csprojResolveAssemblyReference.cache
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.dll
 D:\Stanislau_Kazarez\ASP.NET MVC\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\obj\Debug\MvcRouting.Tests.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.Tests.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.Tests.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Mock.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Mock.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\MvcRouting.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Machine.Specifications.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\MvcRouting.Tests\bin\Debug\Machine.Specifications.Should.dll
