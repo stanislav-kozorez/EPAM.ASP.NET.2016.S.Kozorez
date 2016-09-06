@@ -1,0 +1,5 @@
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\Mock\bin\Debug\Mock.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\Mock\bin\Debug\Mock.pdb
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\Mock\obj\Debug\Mock.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\Mock\obj\Debug\Mock.dll
+C:\Users\Stanislav\Desktop\Epam\Лаборатория\EPAM.ASP.NET.2016.S.Kozorez\Routing\Mock\obj\Debug\Mock.pdb

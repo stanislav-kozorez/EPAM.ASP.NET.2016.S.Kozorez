@@ -7,8 +7,11 @@ namespace AnotherProj.Models
     {
         async public Task<string> GetRemoteData()
         {
-            Thread.Sleep(2000);
-            return await new  Task<string>( () => "Hello from the other side of the world");
+            return await Task<string>.Factory.StartNew( () =>
+            {
+                Thread.Sleep(2000);
+                return "Hello from the other side of the world";
+            });
         }
     }
 }
