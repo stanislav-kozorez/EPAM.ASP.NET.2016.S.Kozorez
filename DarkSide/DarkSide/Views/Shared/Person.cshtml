@@ -1,0 +1,33 @@
+﻿@model DarkSide.Infrastructure.Person
+@{
+    ViewBag.Title = "Person";
+}
+
+@Html.Partial("HeaderPartial", Model)
+
+<h2>Person</h2>
+<p>Id: @Model.Id</p>
+<p>Side: <span id="side">@Model.Side</span></p>
+
+@section Footer{
+    <hr />
+    <p>Join other side?</p>
+    @if (Model.Side == "dark")
+    {
+        <div id="btn-yes" class="btn btn-default">Yes</div>
+    }
+    else
+    {
+        @Html.ActionLink("Yes", "ChangeSide", new { id = Model.Id, side = "dark"}, new { id = "btn-yes", @class = "btn btn-default" })
+    }
+    <div id="btn-no" class="btn btn-default">No</div> 
+}
+
+@section Navigation{
+    <nav class="navbar navbar-default">   
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("GetPerson", "Get", "Person")</li>
+        </ul> 
+    </nav>
+}
+

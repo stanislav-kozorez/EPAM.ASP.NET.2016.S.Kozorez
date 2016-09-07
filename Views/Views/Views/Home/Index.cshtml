@@ -1,0 +1,22 @@
+﻿@model IEnumerable<string>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Index Home
+        @foreach(var value in Model)
+        {
+            <p><b>@value</b></p>
+        }
+    </div>
+</body>
+</html>
