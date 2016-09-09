@@ -11,7 +11,7 @@ namespace Models.Infrastructure
     {
         public object BindModel(ControllerContext controllerContext, ModelBindingContext bindingContext)
         {
-            Address model = (Address)bindingContext.Model ?? new Address();
+            Address model = bindingContext.Model as Address ?? new Address();
 
             model.City = GetValue(bindingContext, "City");
             model.Country = GetValue(bindingContext, "Country");
