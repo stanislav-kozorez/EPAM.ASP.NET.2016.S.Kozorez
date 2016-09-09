@@ -1,0 +1,57 @@
+C:\LectureProj\NetLab\Models\Models\bin\Models.dll.config
+C:\LectureProj\NetLab\Models\Models\bin\Models.dll
+C:\LectureProj\NetLab\Models\Models\bin\Models.pdb
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Helpers.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Mvc.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Razor.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Deployment.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Razor.dll
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Razor.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Deployment.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Webpages.Razor.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Helpers.xml
+C:\LectureProj\NetLab\Models\Models\bin\System.Web.Mvc.xml
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.dll
+C:\LectureProj\NetLab\Models\Models\obj\Debug\Models.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.dll
+C:\LectureProj\NetLab\Models\Models\bin\WebActivator.dll
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.xml
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Common.xml
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.pdb
+C:\LectureProj\NetLab\Models\Models\bin\Ninject.Web.Mvc.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Models.dll.config
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Models.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Models.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Microsoft.Web.Infrastructure.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Common.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Mvc.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Helpers.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Mvc.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Razor.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.Deployment.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.Razor.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\WebActivator.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Common.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Common.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Mvc.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\Ninject.Web.Mvc.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Razor.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.Deployment.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Webpages.Razor.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Helpers.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\bin\System.Web.Mvc.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\obj\Debug\Models.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\Models\Models\obj\Debug\Models.pdb
