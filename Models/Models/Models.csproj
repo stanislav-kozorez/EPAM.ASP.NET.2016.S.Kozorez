@@ -132,6 +132,7 @@
     <Compile Include="Infrastructure\CustomModelBinder.cs" />
     <Compile Include="Infrastructure\CustomValueProviderFactory.cs" />
     <Compile Include="Infrastructure\NinjectDependencyResolver.cs" />
+    <Compile Include="Infrastructure\PersonModelBinder.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
