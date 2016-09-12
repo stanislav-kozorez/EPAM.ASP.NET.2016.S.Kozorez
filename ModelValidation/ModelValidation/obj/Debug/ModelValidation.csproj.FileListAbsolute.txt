@@ -1,0 +1,37 @@
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\ModelValidation.dll.config
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\ModelValidation.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\ModelValidation.pdb
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Helpers.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Mvc.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Razor.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.Deployment.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.Razor.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Razor.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.Deployment.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Webpages.Razor.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Helpers.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\bin\System.Web.Mvc.xml
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\obj\Debug\ModelValidation.csprojResolveAssemblyReference.cache
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
+C:\LectureProj\NetLab\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\ModelValidation.dll.config
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\ModelValidation.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\ModelValidation.pdb
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\Microsoft.Web.Infrastructure.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Helpers.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Mvc.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Razor.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.Deployment.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.Razor.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Razor.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.Deployment.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Webpages.Razor.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Helpers.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\bin\System.Web.Mvc.xml
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\obj\Debug\ModelValidation.csprojResolveAssemblyReference.cache
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
+D:\Stanislau_Kazarez\ASP.NET MVC\EPAM.ASP.NET.2016.S.Kozorez\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
